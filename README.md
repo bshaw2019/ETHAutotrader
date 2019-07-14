@@ -1,9 +1,5 @@
 # ETH_autotrader
 
-## Guidelines
-
-**DON'T SHARE/MARKET THIS CODE WITH ANYONE**
-
 ## Instructions
 
 1. Run setup.py
