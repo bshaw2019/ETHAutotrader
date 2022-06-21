@@ -15,7 +15,7 @@ lxml==4.1.1
 Markdown==2.6.11
 matplotlib==2.1.2
 nltk==3.2.5
-numpy==1.14.1
+numpy==1.22.0
 oauthlib==2.0.6
 protobuf==3.5.1
 pydot==1.2.4
